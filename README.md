@@ -1,3 +1,5 @@
+**Update:** _since JUCE 6 offers support for cmake, making it easy to avoid the Projucer and the "supported" IDEs entirely, this project is now obsolete and no longer maintained._
+
 # JUCE Project Template for VS Code
 
 This is a blank project template for creating and maintaining projects based on
